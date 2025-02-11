@@ -5,7 +5,7 @@
   ultimate sacrifice in 1757, upholding the sanctity and honor of Sikhi.</p1>
 
   
-$\color{red}{\text{Waheguru Ji Khalsa}}$
+$\color{red}{\text{Waheguru Ji Ka Khalsa}}$
 $\color{red}{\text{Waheguru Ji Ki Fateh}}$
 $\color{red}{\text{The Khalsa is the God's abode,}}$
 $\color{red}{\text{Victory Belongs to God}}$
