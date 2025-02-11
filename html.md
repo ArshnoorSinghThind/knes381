@@ -7,8 +7,8 @@
   
 $\color{red}{\text{Waheguru Ji Ka Khalsa}}$
 $\color{red}{\text{Waheguru Ji Ki Fateh}}$
-$\color{red}{\text{The Khalsa is the God's abode,}}$
-$\color{red}{\text{Victory Belongs to God}}$
+$\color{red}{\text{The Khalsa belongs to God,}}$
+$\color{red}{\text{Victory belongs to God}}$
 
 <p>V&#x0307;0<sub>2</sub>max is maximal oxygen uptake.</p>
 
